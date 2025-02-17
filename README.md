@@ -1,1 +1,1 @@
-A Quantum Machine Learning project eveloped by my team and I for a hackathon.
+A Quantum Machine Learning project developed by my team and I for a hackathon.
